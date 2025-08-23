@@ -1,5 +1,4 @@
 # cook your dish here
-x=int(input())
-for i in range(x):
+for i in range(int(input()):
     a,b,c=map(int,input().split())
     print((c-b)//a)
