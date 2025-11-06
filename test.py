@@ -6,3 +6,4 @@ y = ['apple', 'banana', 'cherry']
 for item in y:
     print(item)
 z = {'name': 'John', 'age': 30}
+print('Final commit - all done!')
