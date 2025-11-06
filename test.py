@@ -5,3 +5,4 @@ x = 42  # Random variable assignment
 y = ['apple', 'banana', 'cherry']
 for item in y:
     print(item)
+z = {'name': 'John', 'age': 30}
